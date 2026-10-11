@@ -1,0 +1,1 @@
+>Allow an application to schedule background work with conditions, letting android to decide the optimal time to execute it. 
