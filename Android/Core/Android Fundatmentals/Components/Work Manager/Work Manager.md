@@ -13,7 +13,9 @@ because Android cares for
 
 [[Work Request]]
 
-The app is killed - work manager will die [[Persistence - Process Death]]
+[[Persistence]] - The app is killed - work manager will die
 
 [[Worker - Retry]]
+
+[[Unique Work]]
 
